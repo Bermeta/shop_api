@@ -11,3 +11,4 @@ def send_confirmation_email(user, code):
         fail_silently=False
     )
 
+
