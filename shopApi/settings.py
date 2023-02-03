@@ -224,3 +224,7 @@ CKEDITOR_CONFIGS = {
         'width': 300,
     },
 }
+
+# Jonh Snow
+# The KING of North
+# PyHub
